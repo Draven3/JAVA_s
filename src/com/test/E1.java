@@ -5,6 +5,6 @@ public class E1 {
         int i=1;
         int j=2;
         int z =i+j;
-        System.out.println(z);
+        System.out.println("i+j="+z);
     }
 }

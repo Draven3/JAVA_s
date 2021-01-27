@@ -1,5 +1,6 @@
 package com.test;
 
+
 import java.util.Scanner;
 
 public class E2 {

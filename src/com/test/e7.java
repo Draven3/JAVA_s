@@ -2,7 +2,7 @@ package com.test;
 
 import java.util.Scanner;
 
-public class E7 {
+public class e7 {
     /*
         编写一个命令行程序，只要从命令行输入的内容是GET，则取得6位的随机数作为验证码，并在命令行输入。
         示例：
@@ -23,3 +23,4 @@ public class E7 {
         }
     }
 }
+

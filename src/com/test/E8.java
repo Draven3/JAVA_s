@@ -10,7 +10,8 @@ public class E8 {
             StringBuilder S = new StringBuilder();
             for (int i = 0; i < 6; i++) {
                 int n = (int) (Math.random() * 10);
-                S.append(n); }
+                S.append(n);
+            }
             System.out.println(S.toString());
         }
     }

@@ -17,7 +17,10 @@ public class E20 {
         File file = new File(str);
         File[] fileArray = file.listFiles();
         if (fileArray != null) {
+            System.out.println("目录【"+str+"】中有以下文件");
             for (File file1 : fileArray) {
+
+
                 System.out.println(file1.getAbsolutePath());
 
             }
